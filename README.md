@@ -1,0 +1,2 @@
+This is testing url
+http://imageprocessing-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2020/04/09/16/51/figure-5022270_960_720.jpg%201x,%20https://cdn.pixabay.com/photo/2020/04/09/16/51/figure-5022270_1280.jpg
